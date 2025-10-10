@@ -2,6 +2,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: #d6d3d1;
+        cursor: default;
 }
 
 .grotesk {
@@ -85,7 +86,9 @@ body {
 
 .link {
     transition: all 0.5s cubic-bezier(.31, 1.52, .55, .99);
-    transform-origin: left;
+    transform-origin: center;
+    width: fit-content;
+    border-radius: 0.2em;
 }
 
 .link:hover {
@@ -94,14 +97,24 @@ body {
     transition: all 0.2s ease-out;
     cursor: default;
     font-weight: 600;
+    background-color: #00000010;
 }
+
 .link:active {
     transform: scale(0.95);
     text-decoration: underline;
     transition: all 0.5s cubic-bezier(.31, 1.52, .55, .99);
     cursor: default;
-        font-weight: 400;
+    font-weight: 400;
 }
-.space-between{
+
+.space-between {
     justify-content: space-between;
+}
+
+.follow-cursor{
+    transition: transform 0.4s cubic-bezier(.2, .2, 0, 1);
+}
+.follow-box{
+    width: fit-content;
 }

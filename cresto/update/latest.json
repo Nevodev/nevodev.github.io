@@ -11,11 +11,18 @@
   "downloadUrl": "",
   "fallbackDownloadUrl": "",
   "description": {
-    "zh-CN": "本次更新优化了整体流畅度，并修复了详情页相关问题。",
-    "en": "This update improves overall smoothness and fixes issues related to the detail page."
+    "zh-CN": "只是测试！",
+    "en": "Just a test!"
   },
   "releaseNotes": {
     "zh-CN": [
+      {
+        "type": "feature",
+        "title": "新增",
+        "items": [
+          "应用内检查更新。"
+        ]
+      },
       {
         "type": "improvement",
         "title": "优化",
@@ -34,6 +41,13 @@
       }
     ],
     "en": [
+      {
+        "type": "feature",
+        "title": "Feature",
+        "items": [
+          "In-app update checker."
+        ]
+      },
       {
         "type": "improvement",
         "title": "Improvements",

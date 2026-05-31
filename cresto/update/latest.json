@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "platform": "android",
   "channel": "stable",
-  "versionCode": 6666,
+  "versionCode": 1000,
   "versionName": "1.0",
   "minSupportedVersionCode": 1000,
   "forceUpdate": false,

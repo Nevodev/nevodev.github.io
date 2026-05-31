@@ -3,7 +3,7 @@
   "platform": "android",
   "channel": "stable",
   "versionCode": 6666,
-  "versionName": "1.0.0",
+  "versionName": "1.0",
   "minSupportedVersionCode": 1000,
   "forceUpdate": false,
   "publishedAt": "2026-05-31T00:00:00Z",

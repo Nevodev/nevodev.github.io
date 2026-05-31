@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "platform": "android",
+  "channel": "stable",
+  "versionCode": 6666,
+  "versionName": "1.0.0",
+  "minSupportedVersionCode": 1000,
+  "forceUpdate": false,
+  "publishedAt": "2026-05-31T00:00:00Z",
+  "downloadUrl": "",
+  "fallbackDownloadUrl": "",
+  "description": {
+    "zh-CN": "本次更新优化了整体流畅度，并修复了详情页相关问题。",
+    "en": "This update improves overall smoothness and fixes issues related to the detail page."
+  },
+  "releaseNotes": {
+    "zh-CN": [
+      {
+        "type": "improvement",
+        "title": "优化",
+        "items": [
+          "优化整体流畅度。",
+          "优化列表左滑删除动画手感。"
+        ]
+      },
+      {
+        "type": "fix",
+        "title": "修复",
+        "items": [
+          "修复详情页面状态栏没有沉浸的问题。",
+          "修复详情页面无法选择重复周期预设的问题。"
+        ]
+      }
+    ],
+    "en": [
+      {
+        "type": "improvement",
+        "title": "Improvements",
+        "items": [
+          "Improved overall smoothness.",
+          "Improved the feel of the swipe-left delete animation in lists."
+        ]
+      },
+      {
+        "type": "fix",
+        "title": "Fixes",
+        "items": [
+          "Fixed the detail page status bar not being immersive.",
+          "Fixed an issue where repeat cycle presets could not be selected on the detail page."
+        ]
+      }
+    ]
+  }
+}

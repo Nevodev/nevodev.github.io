@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "platform": "android",
   "channel": "stable",
-  "versionCode": 9999,
+  "versionCode": 1010,
   "versionName": "9.9 Test",
   "minSupportedVersionCode": 1000,
   "forceUpdate": false,

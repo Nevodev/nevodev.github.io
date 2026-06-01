@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "platform": "android",
   "channel": "stable",
-  "versionCode": 1000,
-  "versionName": "1.0",
+  "versionCode": 9999,
+  "versionName": "9.9 Test",
   "minSupportedVersionCode": 1000,
   "forceUpdate": false,
   "publishedAt": "2026-05-31T00:00:00Z",
@@ -20,23 +20,21 @@
         "type": "feature",
         "title": "新增",
         "items": [
-          "应用内检查更新。"
+          "测试"
         ]
       },
       {
         "type": "improvement",
         "title": "优化",
         "items": [
-          "优化整体流畅度。",
-          "优化列表左滑删除动画手感。"
+          "测试"
         ]
       },
       {
         "type": "fix",
         "title": "修复",
         "items": [
-          "修复详情页面状态栏没有沉浸的问题。",
-          "修复详情页面无法选择重复周期预设的问题。"
+          "测试"
         ]
       }
     ],

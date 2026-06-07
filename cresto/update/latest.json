@@ -2,68 +2,36 @@
   "schemaVersion": 1,
   "platform": "android",
   "channel": "stable",
-  "versionCode": 1010,
-  "versionName": "9.9 Test",
+  "versionCode": 1075,
+  "versionName": "1.0",
   "minSupportedVersionCode": 1000,
   "forceUpdate": false,
-  "publishedAt": "2026-05-31T00:00:00Z",
+  "publishedAt": "2026-06-07T00:00:00Z",
   "heroImageUrl": "https://nevodev.github.io/cresto/update/hero_v1.png",
-  "downloadUrl": "",
+  "downloadUrl": "https://github.com/Nevodev/Cresto/releases/download/v1.0-alpha1075/cresto-alpha1075-release.apk",
   "fallbackDownloadUrl": "",
   "description": {
-    "zh-CN": "只是测试！",
-    "en": "Just a test!"
+    "zh-CN": "本次更新重构了设置页面，推荐更新。",
+    "en": "This update refactors the Settings page. We recommend updating."
   },
   "releaseNotes": {
     "zh-CN": [
       {
-        "type": "feature",
-        "title": "新增",
-        "items": [
-          "测试",
-          "测试",
-          "Test",
-          "Test",
-          "Test"
-        ]
-      },
-      {
         "type": "improvement",
         "title": "优化",
         "items": [
-          "测试"
-        ]
-      },
-      {
-        "type": "fix",
-        "title": "修复",
-        "items": [
-          "测试"
+          "设置页面现在更加宽松。",
+          "迁移设置页面至新架构。"
         ]
       }
     ],
     "en": [
       {
-        "type": "feature",
-        "title": "Feature",
-        "items": [
-          "In-app update checker."
-        ]
-      },
-      {
         "type": "improvement",
         "title": "Improvements",
         "items": [
-          "Improved overall smoothness.",
-          "Improved the feel of the swipe-left delete animation in lists."
-        ]
-      },
-      {
-        "type": "fix",
-        "title": "Fixes",
-        "items": [
-          "Fixed the detail page status bar not being immersive.",
-          "Fixed an issue where repeat cycle presets could not be selected on the detail page."
+          "The Settings page now feels more spacious.",
+          "Migrated the Settings page to the new architecture."
         ]
       }
     ]
